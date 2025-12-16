@@ -1,9 +1,7 @@
 # mp3
 # 🎧 Python Music Player
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" />
-</p>
+
 
 Um **player de música em Python** simples, funcional e feito para aprendizado 🚀🎶
 Projeto ideal para quem está começando e quer entender como trabalhar com **pygame**, listas e controle por teclado.
@@ -37,10 +35,6 @@ Projeto ideal para quem está começando e quer entender como trabalhar com **py
 ## 📂 Como usar
 
 1. Clone o repositório
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio
-```
 
 2. Instale o pygame
 
